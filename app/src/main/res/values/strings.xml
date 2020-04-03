@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SorteoCS</string>
+
+    <string name="textview_ingrese_texto">Ingrese el texto a sortear</string>
+    <string name="habilitar_categorias">Habilitar categorías?</string>
+    <string name="numero_categorias">Numero de categoría</string>
+    <string name="comenzar_sorteo">COMENZAR</string>
+    <string name="ver_participantes">BORRAR</string>
+</resources>
